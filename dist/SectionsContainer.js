@@ -157,7 +157,7 @@ var SectionsContainer = function (_Component) {
           elapsedTime = void 0,
           startTime = void 0,
           handleswipe = function handleswipe(swipedir) {
-        console.log(swipedir);
+        console.log(1);
       };
 
       touchsurface.addEventListener('touchstart', function (e) {
